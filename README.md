@@ -11,8 +11,8 @@ ciphers:
 1) ceaser cipher - basic
 
   choose a number 0-25 (if larger, then mod 26) and shift the alphabet by that many letters.
-  ie. abcde...xyz (shift 3)
-      defgh...abc 
+    ie. abcde...xyz (shift 3)
+        defgh...abc 
       
   2) Vigenere - advance ceaser cipher
   
