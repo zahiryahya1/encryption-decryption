@@ -7,6 +7,7 @@ range from a simple alphabet shift, to more complex modular arithmetic. This pro
 implements Euclidean Algorithm to check relatively prime, find GCD, and mod inverse.
 
 ciphers:
+
 1) ceaser cipher - basic
 
   choose a number 0-25 (if larger, then mod 26) and shift the alphabet by that many letters.
