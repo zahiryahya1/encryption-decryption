@@ -32,3 +32,11 @@ ciphers:
    d. converte message into an integer
    e. encrypt: code = message^e (mod phi)
    d. decrypt: message = code^d (mod phi)
+
+
+# Bugs/Known Issues:
+### RSA
+- case: p = 1, q = 2 does not work.
+- 'e' can be 1
+### Ceaser cypher:
+### Vigenère cipher:
