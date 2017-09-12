@@ -6,7 +6,7 @@ Implemented a list of common cryptography methods to encode messages. These meth
 range from a simple alphabet shift, to more complex modular arithmetic. This program 
 implements Euclidean Algorithm to check relatively prime, find GCD, and mod inverse.
 
-A video demo can be found here: https://www.youtube.com/watch?v=4hJWKmvLWNA
+A video demo can be found here: https://www.youtube.com/watch?v=sdLhdzQcasU
 
 ciphers:
 
