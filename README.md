@@ -41,4 +41,6 @@ ciphers:
 - case: p = 1, q = 2 does not work.
 - 'e' can be 1
 ### Ceaser cypher:
+- none
 ### Vigenère cipher:
+- none
